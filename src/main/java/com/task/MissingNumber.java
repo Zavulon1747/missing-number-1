@@ -3,6 +3,7 @@ package com.task;
 public class MissingNumber {
 
     public static int missingNumber(int[] nums) {
+        //add here if(num.length<2)
         // the actual sum of the array numbers
         int actualSum = 0;
         // minimum and maximum numbers of the array for calculating the sum of the arithmetic progression
